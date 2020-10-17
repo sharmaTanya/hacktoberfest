@@ -22,6 +22,9 @@ def swapBits(x, p1, p2, n):
 	# original number so that the 
 	# two sets are swapped 
 	result = x ^ xor 
+	
+	
+	
 
 	return result 
 	
